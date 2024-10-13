@@ -57,7 +57,7 @@ There is also a section of small blog posts and articles about my work and anoth
 
 ---
 
-### 🏫 Some of the extra Courses I took!
+### 🏫 Some of the extra Certifications I took
 
 | Title                                      | Tags                                                | Time to complete (hours) | Certificate/Resource                                                                                                      |
 |--------------------------------------------|----------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------|
