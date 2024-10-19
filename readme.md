@@ -61,6 +61,7 @@ There is also a section of small blog posts and articles about my work and anoth
 
 | Title                                      | Tags                                                | Time to complete (hours) | Certificate/Resource                                                                                                      |
 |--------------------------------------------|----------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------|
+| Machine Learning Explainability | `XAI` `PDPs` `SHAP` `Feature Permutation` | 5 | [Kaggle Certificate](https://www.kaggle.com/learn/certification/franciscomansilha/machine-learning-explainability) |
 | Biomedical Image Analysis in Python        | `DICOM`  `Scikit-Image` `Medical Field Insight`     | 5         | [Datacamp Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/d577999dd432d6bad4c6b9df8427ea6a4230a046) |
 | Effective MLOps - Model Development        | `MLOps` `Experiment Tracking` `wandb`              | 8         | [Weights and Biases Certificate](https://www.credential.net/1bad791b-7bb4-44d0-8c0b-3878fd5af84f)    |
 | Containerize Applications with Docker      | `Docker` `Deployment` `Containerization`           | 8          | [Linkedin Learning Certificate](https://www.linkedin.com/in/francisco-mansilha/details/certifications/1714386424972/single-media-viewer/?profileId=ACoAADnRD5ABtiF2rRvI7PBOhiYjS8IIfYTQcQk) |
