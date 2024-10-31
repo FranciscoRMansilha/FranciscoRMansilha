@@ -51,6 +51,8 @@ There is also a section of small blog posts and articles about my work and anoth
 
 - **[Nuisance in Amsterdam](https://wandb.ai/francisco-ribeiro-mansilha/3rd_attempt_at_LSTM/reports/First-report-Nuisance-in-Amsterdam--Vmlldzo2MTQwMjAw?accessToken=3k87ovp1elf82dmumq7pj23hz7tgqj77l0i264isw3auzmte4pw1mjd6uhinvjlh)** - To complete the course [*Effective MLOps - Model Development*](https://www.credential.net/1bad791b-7bb4-44d0-8c0b-3878fd5af84f), I was required to complete assignments by working on a project and writing reports to track my progress. I chose to base these reports on a project I came up with, tackling a forecasting problem using data on nuisance complaints in Amsterdam. In the end, I produced three reports that reflect both my learning and the development of the project. The link above is for the first report, and from there, you can easily access the following ones.
 
+- **[Reconsidering Deep Learning for Tabular data problems](https://ai.gopubby.com/reconsidering-deep-learning-for-tabular-data-problem-f941b14be9dd)** - This is an article I wrote and published in [AI Advances](https://ai.gopubby.com/). In the article I provide a summary of recent studies to assess if deep learning architectures can compete with tree-based models on tabular data problems.
+
 
 <br />
 
@@ -65,6 +67,7 @@ There is also a section of small blog posts and articles about my work and anoth
 | Machine Learning Explainability | `XAI` `PDPs` `SHAP` `Feature Permutation` | 5 | [Kaggle Certificate](https://www.kaggle.com/learn/certification/franciscomansilha/machine-learning-explainability) |
 | Biomedical Image Analysis in Python        | `DICOM`  `Scikit-Image` `Medical Field Insight`     | 5         | [Datacamp Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/d577999dd432d6bad4c6b9df8427ea6a4230a046) |
 | Effective MLOps - Model Development        | `MLOps` `Experiment Tracking` `wandb`              | 8         | [Weights and Biases Certificate](https://www.credential.net/1bad791b-7bb4-44d0-8c0b-3878fd5af84f)    |
+| Advanced NLP with Spacy | `NLP` `NER` `Tokenization` `NLP Pipelines`, `Model Deployment` | 5 | [Datacamp Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/98161f45bb70db84a50a74edc76ce3588b58a281) 
 | Containerize Applications with Docker      | `Docker` `Deployment` `Containerization`           | 8          | [Linkedin Learning Certificate](https://www.linkedin.com/in/francisco-mansilha/details/certifications/1714386424972/single-media-viewer/?profileId=ACoAADnRD5ABtiF2rRvI7PBOhiYjS8IIfYTQcQk) |
 | Statistics Fundamentals                    | `R` `Statistics` `Hypothesis Testing`              | 20         | [Datacamp Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/88cd5a66507e9c0d16fc5a12511f8dd4f0df4f23)
 | Power BI Fundamentals | `Power BI` `DAX` `Data Analysis` `Data Visualization` | 19 | [Datacamp Certificate](https://www.datacamp.com/statement-of-accomplishment/track/1f353c7206a7f5fd156f5d8204554cd53925c6c5?raw=1) |
