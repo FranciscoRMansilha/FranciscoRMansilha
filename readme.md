@@ -1,6 +1,6 @@
 <br />
 
-[![github_readme](https://media.licdn.com/dms/image/v2/D4E16AQHbGoK8j0zDFQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728053326814?e=1738800000&v=beta&t=HXqnje-S_z25IIcj9rD_EAbu0JDS6IIut2nQ4SCl2rE)](https://www.linkedin.com/in/francisco-mansilha/)
+[![github_readme](https://media.licdn.com/dms/image/v2/D4E16AQHbGoK8j0zDFQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728053326814?e=1746057600&v=beta&t=6S7RhLrJeAtPiaxbizJshTIs6ut8kEtwdkYDO2tf5CQ](https://www.linkedin.com/in/francisco-mansilha/)
 
 <br />
 
