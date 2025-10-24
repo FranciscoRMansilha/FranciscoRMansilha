@@ -1,6 +1,7 @@
 <br />
 
-[![github_readme]([https://media.licdn.com/dms/image/v2/D4E16AQHbGoK8j0zDFQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728053326814?e=1752105600&v=beta&t=Z66c1-QYdp_PKiFjDrNqWtXISub_MHZoIE_yhGGKJuM](https://media.licdn.com/dms/image/v2/D4E16AQHbGoK8j0zDFQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728053326814?e=1762992000&v=beta&t=yfuixaXmC5e0GQ_CQr78hiQNcnFd2bMFtE9RFsLKNmA))](https://www.linkedin.com/in/francisco-mansilha/)
+[![github_readme_banner](./banner.jpg)](https://www.linkedin.com/in/francisco-mansilha/)
+
 
 <br />
 
@@ -89,5 +90,6 @@ Feel free to contact or follow me on any of the following:
 - [**Kaggle**](https://www.kaggle.com/franciscomansilha)
 
 - **Email**: francisco.ribeiro.mansilha@gmail.com
+
 
 
