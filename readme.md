@@ -54,7 +54,7 @@ There is also a section of small blog posts and articles about my work and anoth
 
 - **[Reconsidering Deep Learning for Tabular data problems](https://ai.gopubby.com/reconsidering-deep-learning-for-tabular-data-problem-f941b14be9dd)** - This is an article I wrote and published in [AI Advances](https://ai.gopubby.com/). In the article I provide a summary of recent studies to assess if deep learning architectures can compete with tree-based models on tabular data problems.
 
-- **[Students Francisco Ribeiro Mansilha and Lea Banovac use AI to detect brain tumors][(https://datascience-ai.buas.nl/francisco-ribeiro-mansilhas-journey-kaggle-competitions](https://datascience-ai.buas.nl/students-francisco-ribeiro-mansilha-and-lea-banovac-use-ai-detect-brain-tumors)** - An article my university wrote about a project that I created with my friend Lea!
+- **[Students Francisco Ribeiro Mansilha and Lea Banovac use AI to detect brain tumors](https://datascience-ai.buas.nl/students-francisco-ribeiro-mansilha-and-lea-banovac-use-ai-detect-brain-tumors)** - An article my university wrote about a project that I created with my friend Lea!
 
 - **[Analysing EV Batteries with AI: Francisco Ribeiro Mansilha on his work placement at INNER](https://datascience-ai.buas.nl/students-francisco-ribeiro-mansilha-and-lea-banovac-use-ai-detect-brain-tumors))** - A short article in which I talk about my experience as an internat INNER. The biggest challenges I faced, my expectations, what I learned and more.
 
