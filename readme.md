@@ -58,6 +58,8 @@ There is also a section of small blog posts and articles about my work and anoth
 
 - **[Analysing EV Batteries with AI: Francisco Ribeiro Mansilha on his work placement at INNER](https://datascience-ai.buas.nl/students-francisco-ribeiro-mansilha-and-lea-banovac-use-ai-detect-brain-tumors))** - A short article in which I talk about my experience as an internat INNER. The biggest challenges I faced, my expectations, what I learned and more.
 
+- **[Automated Landmark-Based Root Inoculation in Arabidopsis Using Computer Vision and Robotics](https://www.biorxiv.org/content/10.64898/2026.03.27.714898v1.abstract)** - A scientific preprint of which I am a co-author, presenting a computer vision and robotics pipeline for automated, landmark-based root inoculation in *Arabidopsis thaliana*.
+
 
 <br />
 
@@ -83,11 +85,13 @@ There is also a section of small blog posts and articles about my work and anoth
 
 ### 📩 Contact me! 
 
-Feel free to contact or follow me on any of the following:
+Feel free to visit, contact or follow me on any of the following:
 
 - [**LinkedIn**](https://www.linkedin.com/in/francisco-mansilha/)
 
 - [**Kaggle**](https://www.kaggle.com/franciscomansilha)
+
+- [**Google Scholar**](https://scholar.google.com/citations?user=44C_uK8AAAAJ&hl)
 
 - **Email**: francisco.ribeiro.mansilha@gmail.com
 
